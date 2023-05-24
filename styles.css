@@ -1,17 +1,15 @@
 /* styles.css */
-
 .container {
   width: 200px;
 }
 
-.container{
+.container .main {
+  background-color: purple;
   border-left: 5px solid green;
   padding: 10px;
-  background-color: purple;
-	color:rgba(0,0,0); 
 }
 
-.container {
+.container .main .heading {
   font-size: 20px;
   color: white;
 }
