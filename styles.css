@@ -2,7 +2,7 @@
 
 .container {
   width: 200px;
-  background-color: purple;
+  background-color: purple !important;
 }
 
 .container {
